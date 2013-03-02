@@ -11,4 +11,5 @@ Whenever you're ready, call:
   `c3po.parse()`
   
 More details: http://phpied.com/c3po-common-3rd-party-objects
-  
+
+[![Build Status](https://buildhive.cloudbees.com/job/jasonruyle/job/c3po/badge/icon)](https://buildhive.cloudbees.com/job/jasonruyle/job/c3po/)
