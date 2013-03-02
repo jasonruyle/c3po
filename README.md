@@ -1,0 +1,15 @@
+c3po is a JavaScript utility to handle all 3rd party widgets.
+
+Build by combining `c3po.js` and any desired 3rd party providers from `providers/` into your app code.
+
+In your pages, put the widget tags as usual:
+
+  `<div class="fb-like" data-href="http://phpied.com"></div>`
+
+Whenever you're ready, call:
+
+  `c3po.parse()`
+  
+More details: http://phpied.com/c3po-common-3rd-party-objects
+
+[![Build Status](https://buildhive.cloudbees.com/job/jasonruyle/job/c3po/badge/icon)](https://buildhive.cloudbees.com/job/jasonruyle/job/c3po/)
